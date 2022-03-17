@@ -3,12 +3,12 @@ CRUD - Back-end com NodeJS e MongoDB
 
  Como funciona o CRUD neste app?
 
-      ├── POST: é um nova publicacao
-      ├── GET: Sãos listagens de publicações
-      ├── PUT: é a curtida na publicação, se esta ou nao curtida ela seta no campo da collection
-      ├── DELETE: é deletar uma publicao
+      ├── POST: Nova publicacão
+      ├── GET: Listagens de publicações
+      ├── PUT: Curtida na publicação, se esta ou não curtida ela seta no campo da collection
+      ├── DELETE: Deletar uma publicação
 
-## Executar o Front End:
+## Executar o Front-end:
 
 ```bash
 git clone https://github.com/GustavoNoronha0/InstagramMernClone
@@ -18,7 +18,7 @@ $ npm install
 $ npm start
 ```
 
-## Executar o Back end:
+## Executar o Back-end:
 
 ```bash
 git clone https://github.com/GustavoNoronha0/InstagramMernClone
